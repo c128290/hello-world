@@ -1,3 +1,2 @@
-zmeneno v kitty
 hello z githubu
 Hello Artifactory and Sonar
